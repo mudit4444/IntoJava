@@ -8,6 +8,7 @@ public class ReverseArray {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("this is basically a test for GitHub");
 		System.out.println("enter the size");
 		int n = sc.nextInt();
 		
